@@ -8,7 +8,7 @@
 *.apk
 *.ap_
 *.aab
-
+# Suggested Improvemens
 # Files for the ART/Dalvik VM
 *.dex
 
